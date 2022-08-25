@@ -1375,3 +1375,64 @@ eroare pret #VALUE!
 eroare pret Swisscom Ltd.
 eroare pret None
 EROARE FISIER 26
+EROARE FISIER 1
+eroare pret #VALUE!
+eroare pret #VALUE!
+eroare pret Swisscom Ltd.
+eroare pret None
+eroare pret #VALUE!
+eroare pret #VALUE!
+eroare pret Swisscom Ltd.
+eroare pret None
+EROARE FISIER 2
+eroare pret #VALUE!
+eroare pret #VALUE!
+eroare pret Swisscom Ltd.
+eroare pret None
+eroare pret #VALUE!
+eroare pret #VALUE!
+eroare pret Swisscom Ltd.
+eroare pret None
+EROARE FISIER 3
+eroare pret #VALUE!
+eroare pret #VALUE!
+eroare pret Swisscom Ltd.
+eroare pret None
+eroare pret #VALUE!
+eroare pret #VALUE!
+eroare pret Swisscom Ltd.
+eroare pret None
+eroare pret #VALUE!
+eroare pret #VALUE!
+eroare pret Swisscom Ltd.
+eroare pret None
+EROARE FISIER 4
+eroare pret #VALUE!
+eroare pret #VALUE!
+eroare pret Swisscom Ltd.
+eroare pret None
+eroare pret #VALUE!
+eroare pret #VALUE!
+eroare pret Swisscom Ltd.
+eroare pret None
+eroare pret #VALUE!
+eroare pret #VALUE!
+eroare pret Swisscom Ltd.
+eroare pret None
+EROARE FISIER 5
+eroare pret #VALUE!
+eroare pret #VALUE!
+eroare pret Swisscom Ltd.
+eroare pret None
+eroare pret #VALUE!
+eroare pret #VALUE!
+eroare pret Swisscom Ltd.
+eroare pret #VALUE!
+eroare pret #VALUE!
+eroare pret None
+eroare pret #VALUE!
+eroare pret #VALUE!
+eroare pret Swisscom Ltd.
+eroare pret #VALUE!
+eroare pret #VALUE!
+eroare pret None
