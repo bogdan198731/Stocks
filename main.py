@@ -2,11 +2,8 @@
 
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-import os
 import time
 
-from general import create_data_files
-from produs import *
 from readExcel import *
 from openExcel import openExcel, openExcel2, closeExcel
 
